@@ -1,0 +1,22 @@
+# ===== Core =====
+PyQt6>=6.7
+google-genai>=1.0
+faster-whisper>=1.1
+edge-tts>=6.1
+gTTS
+
+# ===== Audio I/O =====
+sounddevice
+soundfile
+numpy
+
+# ===== Windows System Control =====
+pycaw
+comtypes
+psutil
+screen-brightness-control
+
+# ===== Utilities =====
+python-dotenv
+qasync
+

@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+_tts_cache/
+*.log
+*.mp3
+*.wav
+scratch/
